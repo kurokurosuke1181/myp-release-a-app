@@ -18,7 +18,7 @@ public class AController {
                     <title>導線A</title>
                   </head>
                   <body>
-                    <h1>ようこそ</h1>
+                    <h1>こんにちわ</h1>
                   </body>
                 </html>
                 """;
