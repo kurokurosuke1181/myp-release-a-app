@@ -15,10 +15,11 @@ public class AController {
                   <head>
                     <meta charset=\"utf-8\" />
                     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />
-                    <title>導線A</title>
+                    <title>Route A Sample</title>
                   </head>
                   <body>
-                    <h1>こんにちわ</h1>
+                    <h1>Route A Sample</h1>
+                    <p>導線Aのサンプル画面です。</p>
                   </body>
                 </html>
                 """;
